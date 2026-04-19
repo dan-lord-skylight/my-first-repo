@@ -7,3 +7,5 @@ This is a third edit - I'm going to try do it from memory.
 4th edit; remembering status this time. 
 
 5th time; practing the flow and what does what (like commit being the save + narration)
+
+6th time; rememberins status: Status, add, diff --staged, commit, push

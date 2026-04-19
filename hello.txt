@@ -1,1 +1,3 @@
 This is my first repo. I'm learning. This is my first file in said repo. 
+
+Now I'm making an edit. I learned nano is essentially my in-terminal notepad :D 
